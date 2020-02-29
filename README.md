@@ -1,3 +1,4 @@
 Canvas-Sync
 
-Testing out git push with command line
+Using canvas API, create a simple syncing script that syncs class materials for
+classes that you are enrolled in.
